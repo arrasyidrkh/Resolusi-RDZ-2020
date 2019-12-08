@@ -3,6 +3,7 @@ Rencana Belajar RDZ
 - Belajar Git dan Github
   * Hari Minggu, 8 Desember 2019
    ^ Branch
+   ^ Cara Kerja Git
 - Belajar CSS Layouting
   * Hari Sabtu, 7 Desember 2019
    ^ Box-Sizing
