@@ -5,3 +5,4 @@ Rencana Belajar RDZ
 - Belajar CSS Layouting
   * Hari Sabtu, 7 Desember 2019
 - Belajar Javascript untuk Front-end
+ * Hari Senin, 9 Desember 2019
