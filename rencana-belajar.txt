@@ -9,4 +9,3 @@ Rencana Belajar RDZ
    ^ Box-Sizing
    ^ RGBA dan HSLA
 - Belajar Javascript untuk Front-end
- * Hari Senin, 9 Desember 2019
