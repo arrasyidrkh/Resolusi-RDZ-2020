@@ -2,9 +2,10 @@ Rencana Belajar RDZ
 
 - Belajar Git dan Github
   * Hari Minggu, 8 Desember 2019
-   ^ Push dan Pull Request
-   ^ Pengertian Git dan Github
+   ^ Branch
+   ^ Cara Kerja Git
 - Belajar CSS Layouting
   * Hari Sabtu, 7 Desember 2019
    ^ Box-Sizing
+   ^ RGBA dan HSLA
 - Belajar Javascript untuk Front-end
